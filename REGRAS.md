@@ -8,9 +8,9 @@ REGRAS:
 
 - Grupos no Whatsapp/facebook, páginas, websites devem ser postados em posts específicos, qualquer publicaçao fora será excluida sem aviso previo:
    
-    -- Grupos Whatsapp/facebook (Comente com um printscreen do grupo, link e contato):
+    -- Grupos Whatsapp/facebook (Comente com um printscreen do grupo, link e contato):  https://goo.gl/mMUusg
     
-    -- Páginas e Websites (Comente com a descrição e o link):
+    -- Páginas e Websites (Comente com a descrição e o link): https://goo.gl/2smF6Z
 
 - Códigos para serem analisados devem ser colados no pasteBin e compartilhados no grupos, qualquer post que o código esteja colado, será excluido sem aviso previo;
 
