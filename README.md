@@ -1,2 +1,0 @@
-# REGRAS---Code55
-REGRAS
